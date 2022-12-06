@@ -1,0 +1,26 @@
+#a {
+    margin-top: 0px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+#b {
+    width: 80%;
+    margin-top: 0px;
+}
+
+#c {
+    background-color: aqua;
+}
+
+body {
+    background-size: cover;
+}
+
+#footer {
+    background-color: grey;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+}
